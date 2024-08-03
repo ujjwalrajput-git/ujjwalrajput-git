@@ -18,13 +18,6 @@ I'm a passionate developer always eager to learn new technologies and solve chal
 
 ---
 
-### 🔭 I’m currently working on
-
-- [Project 1](https://github.com/ujjwalrajput-git/project1): Brief description of Project 1.
-- [Project 2](https://github.com/ujjwalrajput-git/project2): Brief description of Project 2.
-
----
-
 ### 🌱 I’m currently learning
 
 - Advanced React
