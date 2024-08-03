@@ -1,6 +1,4 @@
-### Hi there, I'm Ujjwal Rajput 👋
-
-
+# Hi there, I'm Ujjwal Rajput 👋
 
 I'm a passionate developer always eager to learn new technologies and solve challenging problems.
 
